@@ -24,7 +24,7 @@ A beautiful and feature-rich task management application built with React, TypeS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/taskmaster.git
+git clone https://github.com/iammayankpratapsingh/To-Do-List-App
 cd taskmaster
 ```
 
